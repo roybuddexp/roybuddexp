@@ -1,1 +1,1 @@
-<center>Text</center>
+<p align=center> text </p>
