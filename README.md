@@ -1,2 +1,1 @@
-
-wip
+<center>Text</center>
